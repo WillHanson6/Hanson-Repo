@@ -1,0 +1,21 @@
+<dependencies>
+    <!-- JGraphT Dependency -->
+    <dependency>
+        <groupId>org.jgrapht</groupId>
+        <artifactId>jgrapht-core</artifactId>
+        <version>1.5.1</version>
+    </dependency>
+    <!-- Graphviz Java Dependency -->
+    <dependency>
+        <groupId>guru.nidi</groupId>
+        <artifactId>graphviz-java</artifactId>
+        <version>0.18.0</version>
+    </dependency>
+    <!-- JUnit for testing -->
+    <dependency>
+        <groupId>junit</groupId>
+        <artifactId>junit</artifactId>
+        <version>4.13.2</version>
+        <scope>test</scope>
+    </dependency>
+</dependencies>
